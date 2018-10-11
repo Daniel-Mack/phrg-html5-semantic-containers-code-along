@@ -170,4 +170,7 @@ merge the changes into your master branch. Type `git checkout master` and press
 return, then `git merge html5-layout` and press return. Then
 `git push origin master` and press return.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html5-semantic-containers-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html5-semantic-containers-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML5 Semantic Containers Code-along</p>
